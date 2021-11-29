@@ -32,3 +32,16 @@ sno|Name
 1|Teja
 2|Hema
 3|Alekhya
+
+Text that is not a quote
+>Text that is a quote
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+Hello!!!:grinning:
+Good Luck!:+1:
